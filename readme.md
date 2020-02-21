@@ -14,7 +14,7 @@ Use fonts [fira code](https://github.com/tonsky/FiraCode)
 
 [editorconfig.editorconfig](https://marketplace.visualstudio.com/items?itemName=editorconfig.editorconfig)
 
-[vscode-icons-team.vscode-icons[(https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+[vscode-icons-team.vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 # Configurations
 
