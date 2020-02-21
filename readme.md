@@ -4,17 +4,17 @@ Base configs to vscode
 
 # Fonts
 
-Use fonts (fira code)[https://github.com/tonsky/FiraCode]
+Use fonts [fira code](https://github.com/tonsky/FiraCode)
 
-# Extenssions 
+# Extensions 
 
-(mikestead.dotenv)[https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv]
+[mikestead.dotenv](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 
-(dracula-theme.theme-dracula)[https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula]
+[dracula-theme.theme-dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
-(editorconfig.editorconfig)[https://marketplace.visualstudio.com/items?itemName=editorconfig.editorconfig]
+[editorconfig.editorconfig](https://marketplace.visualstudio.com/items?itemName=editorconfig.editorconfig)
 
-(vscode-icons-team.vscode-icons)[https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons]
+[vscode-icons-team.vscode-icons[(https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 # Configurations
 
