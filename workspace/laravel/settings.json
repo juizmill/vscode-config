@@ -1,0 +1,34 @@
+{
+  "phpcs.executablePath": "path_binary_phpcs",
+  "php.suggest.basic": true,
+  "php-cs-fixer.executablePath": "path_binary_php-cs-fixer",
+  "editor.formatOnSaveTimeout": 5000,
+  "php-cs-fixer.formatHtml": true,
+  "php-cs-fixer.autoFixBySemicolon": true,
+  "php-cs-fixer.allowRisky": true,
+  "[php]": {
+    "editor.tabSize": 4,
+    "files.trimFinalNewlines": true,
+    "editor.defaultFormatter": "junstyle.php-cs-fixer",
+  },
+  "emmet.includeLanguages": {
+    "blade": "html"
+  },
+  "files.associations": {
+    ".php_cs": "php",
+    ".php_cs.dist": "php",
+    "*.php": "php",
+    "*.blade.php": "blade"
+  },
+  "[blade.php]": {
+    "emmet.triggerExpansionOnTab": true,
+    "blade.format.enable": true
+  },
+  "files.exclude": {
+    "**/.php_cs.cache": true
+  },
+  "search.exclude": {
+    "**/public": true,
+    "**/storage": true
+  }
+}

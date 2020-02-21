@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "mikestead.dotenv",
+        "dracula-theme.theme-dracula",
+        "editorconfig.editorconfig",
+        "vscode-icons-team.vscode-icons"
+    ]
+}
