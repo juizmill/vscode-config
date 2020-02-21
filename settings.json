@@ -16,7 +16,6 @@
   "explorer.confirmDelete": false,
   "explorer.autoReveal": false,
   "diffEditor.ignoreTrimWhitespace": false,
-  "editor.formatOnSaveTimeout": 5000,
   "editor.rulers": [90, 120],
   "files.watcherExclude": {
     "**/.git": true,

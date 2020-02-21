@@ -4,6 +4,7 @@
         "felixfbecker.php-debug",
         "bmewburn.vscode-intelephense-client",
         "ikappas.phpcs",
-        "onecentlin.laravel-extension-pack"
+        "onecentlin.laravel-blade",
+        "onecentlin.laravel5-snippets"
     ]
 }
