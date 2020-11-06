@@ -1,34 +1,41 @@
 {
-  "phpcs.executablePath": "path_binary_phpcs",
-  "php.suggest.basic": true,
-  "php-cs-fixer.executablePath": "path_binary_php-cs-fixer",
-  "editor.formatOnSaveTimeout": 5000,
-  "php-cs-fixer.formatHtml": true,
-  "php-cs-fixer.autoFixBySemicolon": true,
-  "php-cs-fixer.allowRisky": true,
-  "[php]": {
-    "editor.tabSize": 4,
-    "files.trimFinalNewlines": true,
-    "editor.defaultFormatter": "junstyle.php-cs-fixer",
-  },
-  "emmet.includeLanguages": {
-    "blade": "html"
-  },
-  "files.associations": {
-    ".php_cs": "php",
-    ".php_cs.dist": "php",
-    "*.php": "php",
-    "*.blade.php": "blade"
-  },
-  "[blade.php]": {
-    "emmet.triggerExpansionOnTab": true,
-    "blade.format.enable": true
-  },
-  "files.exclude": {
-    "**/.php_cs.cache": true
-  },
-  "search.exclude": {
-    "**/public": true,
-    "**/storage": true
+    "php.suggest.basic": true,
+    "php.validate.enable": true,
+    "php-cs-fixer.executablePath": "ath_binary_php-cs-fixer",
+    "php-cs-fixer.formatHtml": true,
+    "php-cs-fixer.autoFixBySemicolon": false,
+    "php-cs-fixer.allowRisky": false,
+    "php-cs-fixer.onsave": true,
+    "[php]": {
+      "editor.tabSize": 4,
+      "files.trimFinalNewlines": true,
+      "editor.defaultFormatter": "junstyle.php-cs-fixer",
+    },
+    "emmet.includeLanguages": {
+      "blade": "html"
+    },
+    "files.associations": {
+      ".php_cs": "php",
+      ".php_cs.dist": "php",
+      "*.php": "php",
+      "*.blade.php": "blade"
+    },
+    "[blade.php]": {
+      "emmet.triggerExpansionOnTab": true,
+      "blade.format.enable": true
+    },
+    "php-docblocker.author": {
+      "name": "Jesus Vieira",
+      "email": "jesus.vieira@larimoveis.com.br"
+    },
+    "files.exclude": {
+      "**/.php_cs.cache": true
+    },
+    "search.exclude": {
+      "**/public": true,
+      "**/storage": true
+    },
+    "files.watcherExclude": {
+        "**/.git": true
+      }
   }
-}
