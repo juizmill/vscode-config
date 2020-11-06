@@ -3,7 +3,6 @@
         "junstyle.php-cs-fixer",
         "felixfbecker.php-debug",
         "bmewburn.vscode-intelephense-client",
-        "ikappas.phpcs",
         "onecentlin.laravel-blade",
         "onecentlin.laravel5-snippets"
     ]
