@@ -1,31 +1,35 @@
 {
-  "editor.fontFamily": "Fira Code",
-  "editor.fontLigatures": true,
-  "editor.fontSize": 18,
-  "editor.fontWeight": "500",
-  "editor.tabSize": 2,
-  "editor.renderWhitespace": "all",
-  "editor.snippetSuggestions": "top",
-  "editor.renderLineHighlight": "gutter",
-  "workbench.iconTheme": "vscode-icons",
-  "workbench.colorTheme": "Dracula",
-  "terminal.integrated.shell.osx": "/bin/zsh",
-  "debug.inlineValues": true,
-  "debug.enableAllHovers": true,
-  "workbench.list.openMode": "doubleClick",
-  "explorer.confirmDelete": false,
-  "explorer.autoReveal": false,
-  "diffEditor.ignoreTrimWhitespace": false,
-  "editor.rulers": [90, 120],
-  "files.watcherExclude": {
-    "**/.git": true,
-    "**/.vscode": true
-  },
-  "files.exclude": {
-    "**/.vscode": true
-  },
-  "search.exclude": {
-    "**/.git": true,
-    "**/.vscode": true
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 18,
+    "editor.fontWeight": "500",
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "all",
+    "editor.snippetSuggestions": "top",
+    "editor.renderLineHighlight": "gutter",
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Dracula",
+    "explorer.openEditors.visible": 0,
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "debug.inlineValues": true,
+    "workbench.list.openMode": "doubleClick",
+    "workbench.startupEditor": "newUntitledFile",
+    "explorer.confirmDelete": false,
+    "explorer.autoReveal": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "extensions.ignoreRecommendations": false,
+    "editor.rulers": [
+      90,
+      120
+    ],
+    "search.exclude": {
+      "**/.git": true,
+      "**/.vscode": false
+    },
+    "emmet.includeLanguages": {
+      "blade": "html",
+      "twig": "html",
+      "html": "html",
+    }
   }
-}
