@@ -31,5 +31,9 @@
       "blade": "html",
       "twig": "html",
       "html": "html",
+    },
+    "php-docblocker.author": {
+      "name": "Jesus Vieira",
+      "email": "jesus.vieira@larimoveis.com.br"
     }
   }
