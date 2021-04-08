@@ -4,6 +4,7 @@
         "felixfbecker.php-debug",
         "bmewburn.vscode-intelephense-client",
         "onecentlin.laravel-blade",
-        "onecentlin.laravel5-snippets"
+        "onecentlin.laravel5-snippets",
+        "neilbrayfield.php-docblocker"
     ]
 }
